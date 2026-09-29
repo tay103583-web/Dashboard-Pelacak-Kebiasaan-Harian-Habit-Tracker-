@@ -1,0 +1,169 @@
+{
+  "user": {
+    "name": "Andi Pratama",
+    "avatar": "AP",
+    "joinDate": "2025-01-01",
+    "targetStreak": 30
+  },
+  "habits": [
+    {
+      "id": 1,
+      "name": "Olahraga Pagi",
+      "category": "Kesehatan",
+      "icon": "🏃",
+      "target": 30,
+      "unit": "menit",
+      "color": "#3b82f6",
+      "frequency": "daily"
+    },
+    {
+      "id": 2,
+      "name": "Membaca Buku",
+      "category": "Edukasi",
+      "icon": "📚",
+      "target": 20,
+      "unit": "halaman",
+      "color": "#8b5cf6",
+      "frequency": "daily"
+    },
+    {
+      "id": 3,
+      "name": "Minum Air Putih",
+      "category": "Kesehatan",
+      "icon": "💧",
+      "target": 8,
+      "unit": "gelas",
+      "color": "#06b6d4",
+      "frequency": "daily"
+    },
+    {
+      "id": 4,
+      "name": "Meditasi",
+      "category": "Mental",
+      "icon": "🧘",
+      "target": 15,
+      "unit": "menit",
+      "color": "#10b981",
+      "frequency": "daily"
+    },
+    {
+      "id": 5,
+      "name": "Jurnal Harian",
+      "category": "Mental",
+      "icon": "✍️",
+      "target": 1,
+      "unit": "entri",
+      "color": "#f59e0b",
+      "frequency": "daily"
+    },
+    {
+      "id": 6,
+      "name": "Belajar Coding",
+      "category": "Edukasi",
+      "icon": "💻",
+      "target": 60,
+      "unit": "menit",
+      "color": "#ef4444",
+      "frequency": "daily"
+    }
+  ],
+  "logs": [
+    { "date": "2025-07-01", "habitId": 1, "value": 35, "completed": true },
+    { "date": "2025-07-01", "habitId": 2, "value": 25, "completed": true },
+    { "date": "2025-07-01", "habitId": 3, "value": 8, "completed": true },
+    { "date": "2025-07-01", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-01", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-01", "habitId": 6, "value": 45, "completed": false },
+
+    { "date": "2025-07-02", "habitId": 1, "value": 0, "completed": false },
+    { "date": "2025-07-02", "habitId": 2, "value": 20, "completed": true },
+    { "date": "2025-07-02", "habitId": 3, "value": 7, "completed": false },
+    { "date": "2025-07-02", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-02", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-02", "habitId": 6, "value": 60, "completed": true },
+
+    { "date": "2025-07-03", "habitId": 1, "value": 40, "completed": true },
+    { "date": "2025-07-03", "habitId": 2, "value": 30, "completed": true },
+    { "date": "2025-07-03", "habitId": 3, "value": 8, "completed": true },
+    { "date": "2025-07-03", "habitId": 4, "value": 10, "completed": false },
+    { "date": "2025-07-03", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-03", "habitId": 6, "value": 75, "completed": true },
+
+    { "date": "2025-07-04", "habitId": 1, "value": 30, "completed": true },
+    { "date": "2025-07-04", "habitId": 2, "value": 15, "completed": false },
+    { "date": "2025-07-04", "habitId": 3, "value": 8, "completed": true },
+    { "date": "2025-07-04", "habitId": 4, "value": 20, "completed": true },
+    { "date": "2025-07-04", "habitId": 5, "value": 0, "completed": false },
+    { "date": "2025-07-04", "habitId": 6, "value": 60, "completed": true },
+
+    { "date": "2025-07-05", "habitId": 1, "value": 45, "completed": true },
+    { "date": "2025-07-05", "habitId": 2, "value": 22, "completed": true },
+    { "date": "2025-07-05", "habitId": 3, "value": 9, "completed": true },
+    { "date": "2025-07-05", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-05", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-05", "habitId": 6, "value": 90, "completed": true },
+
+    { "date": "2025-07-06", "habitId": 1, "value": 0, "completed": false },
+    { "date": "2025-07-06", "habitId": 2, "value": 18, "completed": false },
+    { "date": "2025-07-06", "habitId": 3, "value": 6, "completed": false },
+    { "date": "2025-07-06", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-06", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-06", "habitId": 6, "value": 0, "completed": false },
+
+    { "date": "2025-07-07", "habitId": 1, "value": 30, "completed": true },
+    { "date": "2025-07-07", "habitId": 2, "value": 25, "completed": true },
+    { "date": "2025-07-07", "habitId": 3, "value": 8, "completed": true },
+    { "date": "2025-07-07", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-07", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-07", "habitId": 6, "value": 60, "completed": true },
+
+    { "date": "2025-07-08", "habitId": 1, "value": 35, "completed": true },
+    { "date": "2025-07-08", "habitId": 2, "value": 20, "completed": true },
+    { "date": "2025-07-08", "habitId": 3, "value": 8, "completed": true },
+    { "date": "2025-07-08", "habitId": 4, "value": 0, "completed": false },
+    { "date": "2025-07-08", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-08", "habitId": 6, "value": 45, "completed": false },
+
+    { "date": "2025-07-09", "habitId": 1, "value": 30, "completed": true },
+    { "date": "2025-07-09", "habitId": 2, "value": 20, "completed": true },
+    { "date": "2025-07-09", "habitId": 3, "value": 8, "completed": true },
+    { "date": "2025-07-09", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-09", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-09", "habitId": 6, "value": 60, "completed": true },
+
+    { "date": "2025-07-10", "habitId": 1, "value": 50, "completed": true },
+    { "date": "2025-07-10", "habitId": 2, "value": 30, "completed": true },
+    { "date": "2025-07-10", "habitId": 3, "value": 8, "completed": true },
+    { "date": "2025-07-10", "habitId": 4, "value": 20, "completed": true },
+    { "date": "2025-07-10", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-10", "habitId": 6, "value": 90, "completed": true },
+
+    { "date": "2025-07-11", "habitId": 1, "value": 0, "completed": false },
+    { "date": "2025-07-11", "habitId": 2, "value": 10, "completed": false },
+    { "date": "2025-07-11", "habitId": 3, "value": 5, "completed": false },
+    { "date": "2025-07-11", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-11", "habitId": 5, "value": 0, "completed": false },
+    { "date": "2025-07-11", "habitId": 6, "value": 30, "completed": false },
+
+    { "date": "2025-07-12", "habitId": 1, "value": 30, "completed": true },
+    { "date": "2025-07-12", "habitId": 2, "value": 25, "completed": true },
+    { "date": "2025-07-12", "habitId": 3, "value": 8, "completed": true },
+    { "date": "2025-07-12", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-12", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-12", "habitId": 6, "value": 60, "completed": true },
+
+    { "date": "2025-07-13", "habitId": 1, "value": 40, "completed": true },
+    { "date": "2025-07-13", "habitId": 2, "value": 20, "completed": true },
+    { "date": "2025-07-13", "habitId": 3, "value": 8, "completed": true },
+    { "date": "2025-07-13", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-13", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-13", "habitId": 6, "value": 75, "completed": true },
+
+    { "date": "2025-07-14", "habitId": 1, "value": 30, "completed": true },
+    { "date": "2025-07-14", "habitId": 2, "value": 20, "completed": true },
+    { "date": "2025-07-14", "habitId": 3, "value": 7, "completed": false },
+    { "date": "2025-07-14", "habitId": 4, "value": 15, "completed": true },
+    { "date": "2025-07-14", "habitId": 5, "value": 1, "completed": true },
+    { "date": "2025-07-14", "habitId": 6, "value": 60, "completed": true }
+  ]
+}
